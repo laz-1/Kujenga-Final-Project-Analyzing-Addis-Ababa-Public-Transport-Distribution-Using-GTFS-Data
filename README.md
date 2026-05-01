@@ -34,5 +34,4 @@ The data for this project is provided by the **AddisMap Team**, supported by the
 ## 📝 Acknowledgments
 Special thanks to **AddisMap** and **Digital Transport for Africa (DT4A)** for their ground-level data collection efforts. For official inquiries, contact `info@addismap.com`.
 
----
-**Developed for the Addis Ababa Transit Optimization Study.**
+
